@@ -1,5 +1,7 @@
 # 3BB_clone
-run server node
+
+## How to use
+### run server node
 - node server.js
-run web 
+### run web 
 - npm run dev
